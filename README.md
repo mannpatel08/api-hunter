@@ -3,6 +3,9 @@
 Veg Meals Hunter is a React.js web application that fetches and displays vegetarian meals from a public API.  
 This project is created to understand API consumption, React hooks, state management, and dynamic UI rendering.
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7bcee059-1240-4d95-a7cd-1062eaf38c50" />
+
+
 ---
 
 ## 🚀 Features
